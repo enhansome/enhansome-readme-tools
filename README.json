@@ -1,0 +1,766 @@
+{
+  "items": [
+    {
+      "description": "",
+      "items": [
+        {
+          "node_type": "item",
+          "title": "GitHub Readme Stats",
+          "description": "⚡ Dynamically generated stats for your github readmes.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "JavaScript",
+            "last_commit": "2026-07-31T00:50:25Z",
+            "owner": "anuraghazra",
+            "repo": "github-readme-stats",
+            "stars": 79836
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "GitHub Readme Streak Stats",
+          "description": "Display your total contributions, current streak, and longest streak on your github profile readme.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "PHP",
+            "last_commit": "2026-08-06T07:25:41Z",
+            "owner": "DenverCoder1",
+            "repo": "github-readme-streak-stats",
+            "stars": 7081
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "GitHub Contributions Chart",
+          "description": ":octocat: Generate an image of all your Github contributions",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "JavaScript",
+            "last_commit": "2025-02-20T15:05:46Z",
+            "owner": "sallar",
+            "repo": "github-contributions-chart",
+            "stars": 5604
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Waka Readme",
+          "description": "Wakatime weekly metrics on your profile readme.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2026-02-18T01:33:48Z",
+            "owner": "athul",
+            "repo": "waka-readme",
+            "stars": 1831
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Readme Pagespeed Insights",
+          "description": "Google lighthouse stats of your website that you can put in readme.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "TypeScript",
+            "last_commit": "2022-04-03T07:04:37Z",
+            "owner": "ankurparihar",
+            "repo": "readme-pagespeed-insights",
+            "stars": 208
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "GitHub Readme StackOverflow",
+          "description": "📊 Dynamically generated your StackOverflow status on your github readmes.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "JavaScript",
+            "last_commit": "2024-02-21T19:52:52Z",
+            "owner": "omidnikrah",
+            "repo": "github-readme-stackoverflow",
+            "stars": 165
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "GitHub Readme LinkedIn",
+          "description": "📋 Dynamically generated images from your LinkedIn profile on your github readmes.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "TypeScript",
+            "last_commit": "2024-07-31T00:04:43Z",
+            "owner": "soroushchehresa",
+            "repo": "github-readme-linkedin",
+            "stars": 137
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Profile Activity Generator",
+          "description": "Generate custom profile activity for your profile readme.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "JavaScript",
+            "last_commit": "2022-12-31T22:27:09Z",
+            "owner": "omidnikrah",
+            "repo": "profile-activity-generator",
+            "stars": 110
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "GitHub Readme Twitter",
+          "description": "Add Twitter to your github readmes.",
+          "children": [],
+          "repo_info": {
+            "archived": true,
+            "language": "JavaScript",
+            "last_commit": "2023-03-13T21:02:29Z",
+            "owner": "gazf",
+            "repo": "github-readme-twitter",
+            "stars": 107
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "GitHub Readme Medium",
+          "description": "📖 Dynamically generated your latest Medium article on your github readmes.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "JavaScript",
+            "last_commit": "2023-03-12T15:01:23Z",
+            "owner": "omidnikrah",
+            "repo": "github-readme-medium",
+            "stars": 98
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "YouTube Stats Card",
+          "description": "🚀 Dynamic YouTube stats card for your github readmes.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "JavaScript",
+            "last_commit": "2025-01-26T08:05:58Z",
+            "owner": "dhyeythumar",
+            "repo": "youtube-stats-card",
+            "stars": 22
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "GitHub Readme Telegram",
+          "description": "Showcase your Telegram presence with beautiful, dynamic preview cards.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "TypeScript",
+            "last_commit": "2026-08-10T09:28:36Z",
+            "owner": "Malith-Rukshan",
+            "repo": "telegram-card",
+            "stars": 15
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "GitHub PR Stats",
+          "description": "📊 Generate dynamic SVG tables showcasing your GitHub pull requests with repository statistics and star-based filtering.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "TypeScript",
+            "last_commit": "2025-09-01T03:25:00Z",
+            "owner": "f14XuanLv",
+            "repo": "github-pr-stats",
+            "stars": 13
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Isometric Contributions",
+          "description": "Generate beautiful 3D isometric visualizations of GitHub contribution graphs with customizable themes, live preview builder, dark mode support, and intelligent caching.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "JavaScript",
+            "last_commit": "2026-07-02T09:37:13Z",
+            "owner": "Spectrewolf8",
+            "repo": "isometric-contributions-embeds",
+            "stars": 11
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Terminal Identity",
+          "description": "🖥️ Generate terminal-style SVG identity cards for your github profile readme with live stats, 4 provider shells, 8 themes, and zero config.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "JavaScript",
+            "last_commit": "2026-04-13T06:58:03Z",
+            "owner": "doyoon530",
+            "repo": "terminal-identity",
+            "stars": 5
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Github Follow Tracker",
+          "description": "📈 Showcase Follower History using dynamically generating SVG images.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "JavaScript",
+            "last_commit": "2026-08-12T15:56:01Z",
+            "owner": "Bittu5134",
+            "repo": "GH-Follow-Tracker",
+            "stars": 3
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "GitHub Readme Packagist Stats",
+          "description": "Dynamically generated statistics of your Packagist Bundles for your GitHub readme.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "TypeScript",
+            "last_commit": "2024-07-30T19:01:45Z",
+            "owner": "agonyz",
+            "repo": "github-readme-packagist-stats",
+            "stars": 2
+          }
+        }
+      ],
+      "title": "Statistical Tools (Widgets)"
+    },
+    {
+      "description": "",
+      "items": [
+        {
+          "node_type": "item",
+          "title": "rahuldkjain/GitHub Profile Readme Generator",
+          "description": "🚀 Generate github profile readme easily with the latest add-ons like visitors count, github stats, etc using minimal UI.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "TypeScript",
+            "last_commit": "2025-10-28T10:27:15Z",
+            "owner": "rahuldkjain",
+            "repo": "github-profile-readme-generator",
+            "stars": 24391
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Profile Readme Generator",
+          "description": "🎨 Beautify your github profile with this amazing tool.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "TypeScript",
+            "last_commit": "2026-08-11T18:28:33Z",
+            "owner": "maurodesouza",
+            "repo": "profile-readme-generator",
+            "stars": 4419
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "GitHub Profilinator",
+          "description": "🚀 This tool contains mini GUI components that you can hook together to automatically generate markdown code for a perfect readme.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "TypeScript",
+            "last_commit": "2025-04-08T01:56:53Z",
+            "owner": "rishavanand",
+            "repo": "github-profilinator",
+            "stars": 1235
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "GitHub Profile Readme Maker",
+          "description": "🏆 Best Profile Generator, Create your perfect GitHub Profile ReadMe in the best possible way. Lots of features and tools included, all for free ! 💫.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "JavaScript",
+            "last_commit": "2026-04-12T17:19:11Z",
+            "owner": "VishwaGauravIn",
+            "repo": "github-profile-readme-maker",
+            "stars": 1005
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "arturssmirnovs/GitHub Profile Readme Generator",
+          "description": "GitHub profile readme generator allows you to create nice and simple github profile readme files that will be included in your profile previews.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "JavaScript",
+            "last_commit": "2023-11-20T18:47:17Z",
+            "owner": "arturssmirnovs",
+            "repo": "github-profile-readme-generator",
+            "stars": 902
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "REHeader",
+          "description": "Generate beautiful header images for your github profile readmes.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "HTML",
+            "last_commit": "2020-10-10T11:22:39Z",
+            "owner": "khalby786",
+            "repo": "REHeader",
+            "stars": 236
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Get Readme",
+          "description": "CLI tool to generate an esthetic readme file 🔖.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "JavaScript",
+            "last_commit": "2020-08-31T10:12:53Z",
+            "owner": "luctst",
+            "repo": "get-readme",
+            "stars": 14
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "NRG",
+          "description": "Multi-language README generator that builds README files from a single template with imports, widgets, and a table-of-contents engine. CLI, Maven plugin, and Java library.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Java",
+            "last_commit": "2026-05-18T10:01:41Z",
+            "owner": "nanolaba",
+            "repo": "readme-generator",
+            "stars": 9
+          }
+        }
+      ],
+      "title": "Readme Generator"
+    },
+    {
+      "description": "",
+      "items": [
+        {
+          "node_type": "item",
+          "title": "Waka Readme Stats",
+          "description": "GitHub action helps to add cool dev metrics to your github profile readme.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2026-08-04T11:03:19Z",
+            "owner": "anmol098",
+            "repo": "waka-readme-stats",
+            "stars": 3976
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Blog Post Workflow",
+          "description": "Show the latest blog posts from any sources or StackOverflow activity or youtube videos on your github profile/project readme automatically using the RSS feed.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "JavaScript",
+            "last_commit": "2026-08-10T01:23:11Z",
+            "owner": "gautamkrishnar",
+            "repo": "blog-post-workflow",
+            "stars": 3437
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Github Activity Readme",
+          "description": "Updates readme with the recent github activity of a user.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "JavaScript",
+            "last_commit": "2026-08-05T07:46:02Z",
+            "owner": "jamesgeorge007",
+            "repo": "github-activity-readme",
+            "stars": 948
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Profile Readme Stats",
+          "description": "Showcase your github stats on your profile readme.",
+          "children": [],
+          "repo_info": {
+            "archived": true,
+            "language": "TypeScript",
+            "last_commit": "2024-07-29T00:06:38Z",
+            "owner": "teoxoy",
+            "repo": "profile-readme-stats",
+            "stars": 270
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Profile Readme",
+          "description": "Display profile activity and other cool widgets in your profile readme.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "TypeScript",
+            "last_commit": "2023-07-09T08:20:15Z",
+            "owner": "actions-js",
+            "repo": "profile-readme",
+            "stars": 91
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Dynamic Profile Page",
+          "description": "GitHub action to push updates to your special profile repository.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Shell",
+            "last_commit": "2024-09-23T15:16:52Z",
+            "owner": "umutphp",
+            "repo": "github-action-dynamic-profile-page",
+            "stars": 57
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Activity Log",
+          "description": "Dynamically display your recent github activity (Markdown or HTML).",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "JavaScript",
+            "last_commit": "2026-08-12T01:19:12Z",
+            "owner": "TheDanniCraft",
+            "repo": "activity-log",
+            "stars": 18
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "My Most Famous Followers",
+          "description": "Automatically creates a table in your read me with your most followed followers.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2026-08-13T01:03:18Z",
+            "owner": "Joe-Huber",
+            "repo": "my-most-followed-followers",
+            "stars": 4
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Ghstats",
+          "description": "Go CLI + GitHub Action that generates 9 themed SVG profile cards with 61+ themes and byte-weighted commit-to-language attribution.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Go",
+            "last_commit": "2026-05-09T03:28:53Z",
+            "owner": "tiennm99",
+            "repo": "ghstats",
+            "stars": 0
+          }
+        }
+      ],
+      "title": "GitHub Actions for Readmes"
+    },
+    {
+      "description": "",
+      "items": [
+        {
+          "node_type": "item",
+          "title": "Shields",
+          "description": "Concise, consistent, and legible badges in SVG and raster format.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "JavaScript",
+            "last_commit": "2026-08-11T19:33:24Z",
+            "owner": "badges",
+            "repo": "shields",
+            "stars": 27053
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Markdown Badges",
+          "description": "Badges for your profile and projects.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "SCSS",
+            "last_commit": "2026-08-11T03:09:47Z",
+            "owner": "Ileriayo",
+            "repo": "markdown-badges",
+            "stars": 16938
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Visitor Badge",
+          "description": "A badge generator service to count visitors of your markdown file.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "HTML",
+            "last_commit": "2024-03-18T03:30:18Z",
+            "owner": "jwenjian",
+            "repo": "visitor-badge",
+            "stars": 908
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Hits",
+          "description": "📈 General purpose hits (page views) counter.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Elixir",
+            "last_commit": "2026-08-01T17:00:13Z",
+            "owner": "dwyl",
+            "repo": "hits",
+            "stars": 453
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Git Badges",
+          "description": "An API serving useful badges for your github profile readme 🚀.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "TypeScript",
+            "last_commit": "2026-02-24T08:51:46Z",
+            "owner": "pujux",
+            "repo": "badge-it",
+            "stars": 237
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "My Badges",
+          "description": "💎 Funny badges. Similar to GitHub Achievements, but users can define own badges.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "TypeScript",
+            "last_commit": "2026-08-12T12:53:10Z",
+            "owner": "my-badges",
+            "repo": "my-badges",
+            "stars": 224
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "StackOverflow Badge",
+          "description": "Display your stats with this unique StackOverflow badge.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2023-10-17T23:49:43Z",
+            "owner": "claytonjhamilton",
+            "repo": "stackoverflow-badge",
+            "stars": 25
+          }
+        }
+      ],
+      "title": "Badges"
+    },
+    {
+      "description": "",
+      "items": [
+        {
+          "node_type": "item",
+          "title": "Simple Icons",
+          "description": "SVG icons for popular brands.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "JavaScript",
+            "last_commit": "2026-08-02T01:27:31Z",
+            "owner": "simple-icons",
+            "repo": "simple-icons",
+            "stars": 25610
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "GitHub Profile Trophy",
+          "description": "🏆 Add dynamically generated github trophy on your readme.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "TypeScript",
+            "last_commit": "2026-07-25T00:05:17Z",
+            "owner": "ryo-ma",
+            "repo": "github-profile-trophy",
+            "stars": 6631
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Spotify GitHub Profile",
+          "description": "Show your Spotify playing on your github profile.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2026-07-21T11:11:53Z",
+            "owner": "kittinan",
+            "repo": "spotify-github-profile",
+            "stars": 2194
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "GitHub Profile Header Generator",
+          "description": "A header image generator for your Github profile Readme.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "JavaScript",
+            "last_commit": "2026-06-08T21:30:08Z",
+            "owner": "leviarista",
+            "repo": "github-profile-header-generator",
+            "stars": 1321
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Readme Jokes",
+          "description": "😄 Jokes for your github readmes.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "JavaScript",
+            "last_commit": "2025-02-02T20:17:49Z",
+            "owner": "ABSphreak",
+            "repo": "readme-jokes",
+            "stars": 711
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "GitHub Readme Quotes",
+          "description": "🔥 Add programming quotes to your github readme.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "TypeScript",
+            "last_commit": "2025-07-14T18:12:06Z",
+            "owner": "PiyushSuthar",
+            "repo": "github-readme-quotes",
+            "stars": 623
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Spotify Recently Played Readme",
+          "description": "Display your recently played Spotify tracks on your GitHub profile README.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "TypeScript",
+            "last_commit": "2026-06-19T04:05:00Z",
+            "owner": "JeffreyCA",
+            "repo": "spotify-recently-played-readme",
+            "stars": 458
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Spotify Readme",
+          "description": "A modern and customizable widget for showing your current Spotify song on your github profile.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2026-07-31T22:58:50Z",
+            "owner": "tthn0",
+            "repo": "Spotify-Readme",
+            "stars": 391
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "GitHub Stats Terminal Style",
+          "description": "Generate :octocat: Stats as like Terminal Interface with typing effects dynamically for your profile Readme",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "TypeScript",
+            "last_commit": "2026-08-12T04:27:24Z",
+            "owner": "yogeshwaran01",
+            "repo": "github-stats-terminal-style",
+            "stars": 327
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Random Memer",
+          "description": "Returns random meme images scraped from Memedroid.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2023-01-03T15:57:52Z",
+            "owner": "techytushar",
+            "repo": "random-memer",
+            "stars": 77
+          }
+        }
+      ],
+      "title": "Miscellaneous"
+    },
+    {
+      "description": "Contributions are always welcome! 😀 Please read the contribution guidelines first.",
+      "items": [],
+      "title": "Contribute"
+    },
+    {
+      "description": "",
+      "items": [],
+      "title": "License"
+    }
+  ],
+  "metadata": {
+    "last_updated": "2026-08-13T04:21:44.793Z",
+    "original_repository": "dhyeythumar/awesome-readme-tools",
+    "original_repository_sha": "4d577fcf930a3a40e0cbd01a79efde2514e7c78e",
+    "enhanced_repository": "enhansome/enhansome-readme-tools",
+    "enhanced_repository_description": null,
+    "title": "Awesome README Tools with stars"
+  }
+}
