@@ -272,7 +272,7 @@
             "last_commit": "2026-08-11T18:28:33Z",
             "owner": "maurodesouza",
             "repo": "profile-readme-generator",
-            "stars": 4419
+            "stars": 4420
           }
         },
         {
@@ -457,7 +457,7 @@
           "repo_info": {
             "archived": false,
             "language": "JavaScript",
-            "last_commit": "2026-08-12T01:19:12Z",
+            "last_commit": "2026-08-13T04:56:13Z",
             "owner": "TheDanniCraft",
             "repo": "activity-log",
             "stars": 18
@@ -485,7 +485,7 @@
           "repo_info": {
             "archived": false,
             "language": "Go",
-            "last_commit": "2026-05-09T03:28:53Z",
+            "last_commit": "2026-08-13T07:44:34Z",
             "owner": "tiennm99",
             "repo": "ghstats",
             "stars": 0
@@ -508,7 +508,7 @@
             "last_commit": "2026-08-11T19:33:24Z",
             "owner": "badges",
             "repo": "shields",
-            "stars": 27053
+            "stars": 27052
           }
         },
         {
@@ -522,7 +522,7 @@
             "last_commit": "2026-08-11T03:09:47Z",
             "owner": "Ileriayo",
             "repo": "markdown-badges",
-            "stars": 16938
+            "stars": 16940
           }
         },
         {
@@ -612,7 +612,7 @@
             "last_commit": "2026-08-02T01:27:31Z",
             "owner": "simple-icons",
             "repo": "simple-icons",
-            "stars": 25610
+            "stars": 25614
           }
         },
         {
@@ -721,7 +721,7 @@
           "repo_info": {
             "archived": false,
             "language": "TypeScript",
-            "last_commit": "2026-08-12T04:27:24Z",
+            "last_commit": "2026-08-13T04:30:32Z",
             "owner": "yogeshwaran01",
             "repo": "github-stats-terminal-style",
             "stars": 327
@@ -756,7 +756,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-13T04:21:44.793Z",
+    "last_updated": "2026-08-13T08:53:57.059Z",
     "original_repository": "dhyeythumar/awesome-readme-tools",
     "original_repository_sha": "4d577fcf930a3a40e0cbd01a79efde2514e7c78e",
     "enhanced_repository": "enhansome/enhansome-readme-tools",
