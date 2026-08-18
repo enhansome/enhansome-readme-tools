@@ -14,7 +14,7 @@
             "last_commit": "2026-07-31T00:50:25Z",
             "owner": "anuraghazra",
             "repo": "github-readme-stats",
-            "stars": 79824
+            "stars": 79829
           }
         },
         {
@@ -165,7 +165,7 @@
           "repo_info": {
             "archived": false,
             "language": "TypeScript",
-            "last_commit": "2026-08-10T09:28:36Z",
+            "last_commit": "2026-08-17T09:26:47Z",
             "owner": "Malith-Rukshan",
             "repo": "telegram-card",
             "stars": 15
@@ -258,7 +258,7 @@
             "last_commit": "2025-10-28T10:27:15Z",
             "owner": "rahuldkjain",
             "repo": "github-profile-readme-generator",
-            "stars": 24399
+            "stars": 24400
           }
         },
         {
@@ -272,7 +272,7 @@
             "last_commit": "2026-08-13T18:04:12Z",
             "owner": "maurodesouza",
             "repo": "profile-readme-generator",
-            "stars": 4431
+            "stars": 4439
           }
         },
         {
@@ -376,7 +376,7 @@
             "last_commit": "2026-08-04T11:03:19Z",
             "owner": "anmol098",
             "repo": "waka-readme-stats",
-            "stars": 3977
+            "stars": 3978
           }
         },
         {
@@ -471,7 +471,7 @@
           "repo_info": {
             "archived": false,
             "language": "Python",
-            "last_commit": "2026-08-17T00:37:26Z",
+            "last_commit": "2026-08-18T00:36:56Z",
             "owner": "Joe-Huber",
             "repo": "my-most-followed-followers",
             "stars": 4
@@ -508,7 +508,7 @@
             "last_commit": "2026-08-15T01:28:36Z",
             "owner": "badges",
             "repo": "shields",
-            "stars": 27062
+            "stars": 27068
           }
         },
         {
@@ -522,7 +522,7 @@
             "last_commit": "2026-08-11T03:09:47Z",
             "owner": "Ileriayo",
             "repo": "markdown-badges",
-            "stars": 16951
+            "stars": 16953
           }
         },
         {
@@ -612,7 +612,7 @@
             "last_commit": "2026-08-02T01:27:31Z",
             "owner": "simple-icons",
             "repo": "simple-icons",
-            "stars": 25627
+            "stars": 25631
           }
         },
         {
@@ -626,7 +626,7 @@
             "last_commit": "2026-07-25T00:05:17Z",
             "owner": "ryo-ma",
             "repo": "github-profile-trophy",
-            "stars": 6632
+            "stars": 6633
           }
         },
         {
@@ -640,7 +640,7 @@
             "last_commit": "2026-07-21T11:11:53Z",
             "owner": "kittinan",
             "repo": "spotify-github-profile",
-            "stars": 2200
+            "stars": 2201
           }
         },
         {
@@ -651,10 +651,10 @@
           "repo_info": {
             "archived": false,
             "language": "JavaScript",
-            "last_commit": "2026-06-08T21:30:08Z",
+            "last_commit": "2026-08-17T16:48:35Z",
             "owner": "leviarista",
             "repo": "github-profile-header-generator",
-            "stars": 1323
+            "stars": 1325
           }
         },
         {
@@ -693,10 +693,10 @@
           "repo_info": {
             "archived": false,
             "language": "TypeScript",
-            "last_commit": "2026-08-17T07:17:02Z",
+            "last_commit": "2026-08-18T02:58:31Z",
             "owner": "JeffreyCA",
             "repo": "spotify-recently-played-readme",
-            "stars": 457
+            "stars": 458
           }
         },
         {
@@ -721,7 +721,7 @@
           "repo_info": {
             "archived": false,
             "language": "TypeScript",
-            "last_commit": "2026-08-17T03:33:25Z",
+            "last_commit": "2026-08-18T03:28:04Z",
             "owner": "yogeshwaran01",
             "repo": "github-stats-terminal-style",
             "stars": 327
@@ -756,7 +756,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-17T08:22:25.771Z",
+    "last_updated": "2026-08-18T08:06:18.681Z",
     "original_repository": "dhyeythumar/awesome-readme-tools",
     "original_repository_sha": "4d577fcf930a3a40e0cbd01a79efde2514e7c78e",
     "enhanced_repository": "enhansome/enhansome-readme-tools",
