@@ -543,7 +543,7 @@
             "last_commit": "2026-08-15T01:28:36Z",
             "owner": "badges",
             "repo": "shields",
-            "stars": 27075
+            "stars": 27076
           }
         },
         {
@@ -558,7 +558,7 @@
             "last_commit": "2026-08-11T03:09:47Z",
             "owner": "Ileriayo",
             "repo": "markdown-badges",
-            "stars": 16954
+            "stars": 16955
           }
         },
         {
@@ -654,7 +654,7 @@
             "last_commit": "2026-08-02T01:27:31Z",
             "owner": "simple-icons",
             "repo": "simple-icons",
-            "stars": 25638
+            "stars": 25641
           }
         },
         {
@@ -797,8 +797,9 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-19T08:07:15.742Z",
+    "last_updated": "2026-08-19T12:50:34.661Z",
     "original_repository": "dhyeythumar/awesome-readme-tools",
+    "original_repository_id": 341474868,
     "original_repository_sha": "4d577fcf930a3a40e0cbd01a79efde2514e7c78e",
     "enhanced_repository": "enhansome/enhansome-readme-tools",
     "enhanced_repository_description": null,

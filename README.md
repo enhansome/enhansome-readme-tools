@@ -48,7 +48,7 @@
 ## GitHub Actions for Readmes
 
 * [Waka Readme Stats](https://github.com/anmol098/waka-readme-stats#readme) ⭐ 3,980 | 🐛 65 | 🌐 Python | 📅 2026-08-04 - GitHub action helps to add cool dev metrics to your github profile readme.
-* [Blog Post Workflow](https://github.com/gautamkrishnar/blog-post-workflow#readme) ⭐ 3,437 | 🐛 0 | 🌐 JavaScript | 📅 2026-08-10 - Show the latest blog posts from any sources or StackOverflow activity or youtube videos on your github profile/project readme automatically using the RSS feed.
+* [Blog Post Workflow](https://github.com/gautamkrishnar/blog-post-workflow#readme) ⭐ 3,437 | 🐛 1 | 🌐 JavaScript | 📅 2026-08-10 - Show the latest blog posts from any sources or StackOverflow activity or youtube videos on your github profile/project readme automatically using the RSS feed.
 * [Github Activity Readme](https://github.com/jamesgeorge007/github-activity-readme#readme) ⭐ 948 | 🐛 12 | 🌐 JavaScript | 📅 2026-08-05 - Updates readme with the recent github activity of a user.
 * [Profile Readme Stats](https://github.com/teoxoy/profile-readme-stats#readme) ⚠️ Archived - Showcase your github stats on your profile readme.
 * [Profile Readme](https://github.com/actions-js/profile-readme#readme) ⭐ 91 | 🐛 5 | 🌐 TypeScript | 📅 2023-07-09 - Display profile activity and other cool widgets in your profile readme.
@@ -59,8 +59,8 @@
 
 ## Badges
 
-* [Shields](https://github.com/badges/shields#readme) ⭐ 27,075 | 🐛 307 | 🌐 JavaScript | 📅 2026-08-15 - Concise, consistent, and legible badges in SVG and raster format.
-* [Markdown Badges](https://github.com/Ileriayo/markdown-badges#readme) ⭐ 16,954 | 🐛 0 | 🌐 SCSS | 📅 2026-08-11 - Badges for your profile and projects.
+* [Shields](https://github.com/badges/shields#readme) ⭐ 27,076 | 🐛 307 | 🌐 JavaScript | 📅 2026-08-15 - Concise, consistent, and legible badges in SVG and raster format.
+* [Markdown Badges](https://github.com/Ileriayo/markdown-badges#readme) ⭐ 16,955 | 🐛 0 | 🌐 SCSS | 📅 2026-08-11 - Badges for your profile and projects.
 * [Visitor Badge](https://github.com/jwenjian/visitor-badge#readme) ⭐ 908 | 🐛 0 | 🌐 HTML | 📅 2024-03-18 - A badge generator service to count visitors of your markdown file.
 * [Hits](https://github.com/dwyl/hits) ⭐ 453 | 🐛 20 | 🌐 Elixir | 📅 2026-08-01 - 📈 General purpose hits (page views) counter.
 * [Git Badges](https://github.com/puf17640/git-badges#readme) ⭐ 237 | 🐛 10 | 🌐 TypeScript | 📅 2026-02-24 - An API serving useful badges for your github profile readme 🚀.
@@ -69,7 +69,7 @@
 
 ## Miscellaneous
 
-* [Simple Icons](https://github.com/simple-icons/simple-icons#readme) ⭐ 25,638 | 🐛 932 | 🌐 JavaScript | 📅 2026-08-02 - SVG icons for popular brands.
+* [Simple Icons](https://github.com/simple-icons/simple-icons#readme) ⭐ 25,641 | 🐛 933 | 🌐 JavaScript | 📅 2026-08-02 - SVG icons for popular brands.
 * [GitHub Profile Trophy](https://github.com/ryo-ma/github-profile-trophy#readme) ⭐ 6,637 | 🐛 32 | 🌐 TypeScript | 📅 2026-07-25 - 🏆 Add dynamically generated github trophy on your readme.
 * [Spotify GitHub Profile](https://github.com/kittinan/spotify-github-profile#readme) ⭐ 2,201 | 🐛 20 | 🌐 Python | 📅 2026-07-21 - Show your Spotify playing on your github profile.
 * [GitHub Profile Header Generator](https://github.com/leviarista/github-profile-header-generator) ⭐ 1,325 | 🐛 3 | 🌐 JavaScript | 📅 2026-08-17 - A header image generator for your Github profile Readme.
