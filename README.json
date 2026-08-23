@@ -30,7 +30,7 @@
             "last_commit": "2026-08-06T07:25:41Z",
             "owner": "DenverCoder1",
             "repo": "github-readme-streak-stats",
-            "stars": 7096
+            "stars": 7098
           }
         },
         {
@@ -276,7 +276,7 @@
             "last_commit": "2025-10-28T10:27:15Z",
             "owner": "rahuldkjain",
             "repo": "github-profile-readme-generator",
-            "stars": 24406
+            "stars": 24407
           }
         },
         {
@@ -291,7 +291,7 @@
             "last_commit": "2026-08-20T02:08:44Z",
             "owner": "maurodesouza",
             "repo": "profile-readme-generator",
-            "stars": 4459
+            "stars": 4462
           }
         },
         {
@@ -321,7 +321,7 @@
             "last_commit": "2026-04-12T17:19:11Z",
             "owner": "VishwaGauravIn",
             "repo": "github-profile-readme-maker",
-            "stars": 1007
+            "stars": 1008
           }
         },
         {
@@ -402,7 +402,7 @@
             "last_commit": "2026-08-04T11:03:19Z",
             "owner": "anmol098",
             "repo": "waka-readme-stats",
-            "stars": 3985
+            "stars": 3986
           }
         },
         {
@@ -417,7 +417,7 @@
             "last_commit": "2026-08-10T01:23:11Z",
             "owner": "gautamkrishnar",
             "repo": "blog-post-workflow",
-            "stars": 3441
+            "stars": 3442
           }
         },
         {
@@ -489,7 +489,7 @@
             "archived": false,
             "id": 833710441,
             "language": "JavaScript",
-            "last_commit": "2026-08-21T04:09:04Z",
+            "last_commit": "2026-08-22T20:14:24Z",
             "owner": "TheDanniCraft",
             "repo": "activity-log",
             "stars": 18
@@ -504,7 +504,7 @@
             "archived": false,
             "id": 1100066142,
             "language": "Python",
-            "last_commit": "2026-08-22T00:37:13Z",
+            "last_commit": "2026-08-23T00:40:10Z",
             "owner": "Joe-Huber",
             "repo": "my-most-followed-followers",
             "stars": 4
@@ -543,7 +543,7 @@
             "last_commit": "2026-08-21T21:48:56Z",
             "owner": "badges",
             "repo": "shields",
-            "stars": 27090
+            "stars": 27092
           }
         },
         {
@@ -558,7 +558,7 @@
             "last_commit": "2026-08-11T03:09:47Z",
             "owner": "Ileriayo",
             "repo": "markdown-badges",
-            "stars": 16971
+            "stars": 16978
           }
         },
         {
@@ -654,7 +654,7 @@
             "last_commit": "2026-08-02T01:27:31Z",
             "owner": "simple-icons",
             "repo": "simple-icons",
-            "stars": 25678
+            "stars": 25692
           }
         },
         {
@@ -669,7 +669,7 @@
             "last_commit": "2026-07-25T00:05:17Z",
             "owner": "ryo-ma",
             "repo": "github-profile-trophy",
-            "stars": 6635
+            "stars": 6636
           }
         },
         {
@@ -684,7 +684,7 @@
             "last_commit": "2026-07-21T11:11:53Z",
             "owner": "kittinan",
             "repo": "spotify-github-profile",
-            "stars": 2204
+            "stars": 2205
           }
         },
         {
@@ -771,10 +771,10 @@
             "archived": false,
             "id": 365424046,
             "language": "TypeScript",
-            "last_commit": "2026-08-22T03:25:45Z",
+            "last_commit": "2026-08-23T03:35:42Z",
             "owner": "yogeshwaran01",
             "repo": "github-stats-terminal-style",
-            "stars": 329
+            "stars": 331
           }
         },
         {
@@ -797,7 +797,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-22T07:58:52.630Z",
+    "last_updated": "2026-08-23T07:59:20.059Z",
     "original_repository": "dhyeythumar/awesome-readme-tools",
     "original_repository_id": 341474868,
     "original_repository_sha": "4d577fcf930a3a40e0cbd01a79efde2514e7c78e",
