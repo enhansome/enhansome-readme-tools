@@ -15,7 +15,7 @@
             "last_commit": "2026-07-31T00:50:25Z",
             "owner": "anuraghazra",
             "repo": "github-readme-stats",
-            "stars": 79823
+            "stars": 79826
           }
         },
         {
@@ -30,7 +30,7 @@
             "last_commit": "2026-08-06T07:25:41Z",
             "owner": "DenverCoder1",
             "repo": "github-readme-streak-stats",
-            "stars": 7099
+            "stars": 7100
           }
         },
         {
@@ -177,7 +177,7 @@
             "archived": false,
             "id": 975094305,
             "language": "TypeScript",
-            "last_commit": "2026-08-17T09:26:47Z",
+            "last_commit": "2026-08-24T09:24:44Z",
             "owner": "Malith-Rukshan",
             "repo": "telegram-card",
             "stars": 15
@@ -276,7 +276,7 @@
             "last_commit": "2025-10-28T10:27:15Z",
             "owner": "rahuldkjain",
             "repo": "github-profile-readme-generator",
-            "stars": 24410
+            "stars": 24412
           }
         },
         {
@@ -399,7 +399,7 @@
             "archived": false,
             "id": 280882811,
             "language": "Python",
-            "last_commit": "2026-08-04T11:03:19Z",
+            "last_commit": "2026-08-24T13:42:51Z",
             "owner": "anmol098",
             "repo": "waka-readme-stats",
             "stars": 3986
@@ -543,7 +543,7 @@
             "last_commit": "2026-08-21T21:48:56Z",
             "owner": "badges",
             "repo": "shields",
-            "stars": 27097
+            "stars": 27098
           }
         },
         {
@@ -558,7 +558,7 @@
             "last_commit": "2026-08-11T03:09:47Z",
             "owner": "Ileriayo",
             "repo": "markdown-badges",
-            "stars": 16978
+            "stars": 16980
           }
         },
         {
@@ -654,7 +654,7 @@
             "last_commit": "2026-08-23T15:03:04Z",
             "owner": "simple-icons",
             "repo": "simple-icons",
-            "stars": 25705
+            "stars": 25707
           }
         },
         {
@@ -669,7 +669,7 @@
             "last_commit": "2026-07-25T00:05:17Z",
             "owner": "ryo-ma",
             "repo": "github-profile-trophy",
-            "stars": 6636
+            "stars": 6637
           }
         },
         {
@@ -797,7 +797,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-24T08:24:54.577Z",
+    "last_updated": "2026-08-24T14:28:41.567Z",
     "original_repository": "dhyeythumar/awesome-readme-tools",
     "original_repository_id": 341474868,
     "original_repository_sha": "4d577fcf930a3a40e0cbd01a79efde2514e7c78e",
