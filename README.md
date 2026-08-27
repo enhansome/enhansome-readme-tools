@@ -12,8 +12,8 @@
 
 ## Statistical Tools (Widgets)
 
-* [GitHub Readme Stats](https://github.com/anuraghazra/github-readme-stats#readme) ⭐ 79,840 | 🐛 293 | 🌐 JavaScript | 📅 2026-07-31 - ⚡ Dynamically generated stats for your github readmes.
-* [GitHub Readme Streak Stats](https://github.com/DenverCoder1/github-readme-streak-stats#readme) ⭐ 7,107 | 🐛 77 | 🌐 PHP | 📅 2026-08-06 - Display your total contributions, current streak, and longest streak on your github profile readme.
+* [GitHub Readme Stats](https://github.com/anuraghazra/github-readme-stats#readme) ⭐ 79,837 | 🐛 293 | 🌐 JavaScript | 📅 2026-07-31 - ⚡ Dynamically generated stats for your github readmes.
+* [GitHub Readme Streak Stats](https://github.com/DenverCoder1/github-readme-streak-stats#readme) ⭐ 7,108 | 🐛 77 | 🌐 PHP | 📅 2026-08-06 - Display your total contributions, current streak, and longest streak on your github profile readme.
 * [GitHub Contributions Chart](https://github.com/sallar/github-contributions-chart#readme) ⭐ 5,604 | 🐛 34 | 🌐 JavaScript | 📅 2025-02-20 - :octocat: Generate an image of all your Github contributions
 * [Waka Readme](https://github.com/athul/waka-readme#readme) ⭐ 1,830 | 🐛 2 | 🌐 Python | 📅 2026-02-18 - Wakatime weekly metrics on your profile readme.
 * [Readme Pagespeed Insights](https://github.com/ankurparihar/readme-pagespeed-insights#readme) ⭐ 209 | 🐛 11 | 🌐 TypeScript | 📅 2022-04-03 - Google lighthouse stats of your website that you can put in readme.
@@ -59,7 +59,7 @@
 
 ## Badges
 
-* [Shields](https://github.com/badges/shields#readme) ⭐ 27,123 | 🐛 306 | 🌐 JavaScript | 📅 2026-08-21 - Concise, consistent, and legible badges in SVG and raster format.
+* [Shields](https://github.com/badges/shields#readme) ⭐ 27,124 | 🐛 306 | 🌐 JavaScript | 📅 2026-08-21 - Concise, consistent, and legible badges in SVG and raster format.
 * [Markdown Badges](https://github.com/Ileriayo/markdown-badges#readme) ⭐ 16,990 | 🐛 0 | 🌐 SCSS | 📅 2026-08-11 - Badges for your profile and projects.
 * [Visitor Badge](https://github.com/jwenjian/visitor-badge#readme) ⭐ 908 | 🐛 0 | 🌐 HTML | 📅 2024-03-18 - A badge generator service to count visitors of your markdown file.
 * [Hits](https://github.com/dwyl/hits) ⭐ 451 | 🐛 20 | 🌐 Elixir | 📅 2026-08-01 - 📈 General purpose hits (page views) counter.
@@ -69,7 +69,7 @@
 
 ## Miscellaneous
 
-* [Simple Icons](https://github.com/simple-icons/simple-icons#readme) ⭐ 25,735 | 🐛 944 | 🌐 JavaScript | 📅 2026-08-27 - SVG icons for popular brands.
+* [Simple Icons](https://github.com/simple-icons/simple-icons#readme) ⭐ 25,738 | 🐛 944 | 🌐 JavaScript | 📅 2026-08-27 - SVG icons for popular brands.
 * [GitHub Profile Trophy](https://github.com/ryo-ma/github-profile-trophy#readme) ⭐ 6,638 | 🐛 32 | 🌐 TypeScript | 📅 2026-07-25 - 🏆 Add dynamically generated github trophy on your readme.
 * [Spotify GitHub Profile](https://github.com/kittinan/spotify-github-profile#readme) ⭐ 2,208 | 🐛 20 | 🌐 Python | 📅 2026-07-21 - Show your Spotify playing on your github profile.
 * [GitHub Profile Header Generator](https://github.com/leviarista/github-profile-header-generator) ⭐ 1,329 | 🐛 3 | 🌐 JavaScript | 📅 2026-08-17 - A header image generator for your Github profile Readme.
@@ -77,7 +77,7 @@
 * [GitHub Readme Quotes](https://github.com/PiyushSuthar/github-readme-quotes#readme) ⭐ 622 | 🐛 4 | 🌐 TypeScript | 📅 2025-07-14 - 🔥 Add programming quotes to your github readme.
 * [Spotify Recently Played Readme](https://github.com/JeffreyCA/spotify-recently-played-readme) ⭐ 461 | 🐛 1 | 🌐 TypeScript | 📅 2026-08-23 - Display your recently played Spotify tracks on your GitHub profile README.
 * [Spotify Readme](https://github.com/tthn0/Spotify-Readme#readme) ⭐ 392 | 🐛 7 | 🌐 Python | 📅 2026-07-31 - A modern and customizable widget for showing your current Spotify song on your github profile.
-* [GitHub Stats Terminal Style](https://github.com/yogeshwaran01/github-stats-terminal-style#readme) ⭐ 332 | 🐛 2 | 🌐 TypeScript | 📅 2026-08-26 - Generate :octocat: Stats as like Terminal Interface with typing effects dynamically for your profile Readme
+* [GitHub Stats Terminal Style](https://github.com/yogeshwaran01/github-stats-terminal-style#readme) ⭐ 332 | 🐛 2 | 🌐 TypeScript | 📅 2026-08-27 - Generate :octocat: Stats as like Terminal Interface with typing effects dynamically for your profile Readme
 * [Random Memer](https://github.com/techytushar/random-memer#readme) ⭐ 78 | 🐛 2 | 🌐 Python | 📅 2023-01-03 - Returns random meme images scraped from Memedroid.
 
 ## Contribute
