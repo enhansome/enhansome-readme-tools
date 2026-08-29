@@ -19,7 +19,7 @@
             "open_issues": 293,
             "owner": "anuraghazra",
             "repo": "github-readme-stats",
-            "stars": 79842,
+            "stars": 79843,
             "topics": [
               "dynamic",
               "profile-readme",
@@ -46,7 +46,7 @@
             "open_issues": 78,
             "owner": "DenverCoder1",
             "repo": "github-readme-streak-stats",
-            "stars": 7111,
+            "stars": 7112,
             "topics": [
               "dynamic",
               "github",
@@ -537,7 +537,7 @@
             "open_issues": 408,
             "owner": "rahuldkjain",
             "repo": "github-profile-readme-generator",
-            "stars": 24421,
+            "stars": 24424,
             "topics": [
               "gatsby",
               "generator",
@@ -1078,7 +1078,7 @@
             "open_issues": 306,
             "owner": "badges",
             "repo": "shields",
-            "stars": 27129,
+            "stars": 27131,
             "topics": [
               "badge",
               "badge-maker",
@@ -1264,10 +1264,10 @@
             "language": "JavaScript",
             "license": "CC0-1.0",
             "last_commit": "2026-08-29T01:29:28Z",
-            "open_issues": 946,
+            "open_issues": 947,
             "owner": "simple-icons",
             "repo": "simple-icons",
-            "stars": 25743,
+            "stars": 25745,
             "topics": [
               "brand",
               "brand-assets",
@@ -1308,7 +1308,7 @@
             "open_issues": 31,
             "owner": "ryo-ma",
             "repo": "github-profile-trophy",
-            "stars": 6639,
+            "stars": 6640,
             "topics": [
               "deno",
               "github",
@@ -1563,7 +1563,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-29T04:48:17.506Z",
+    "last_updated": "2026-08-29T13:21:27.536Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated list of awesome readme tools. ✌",
