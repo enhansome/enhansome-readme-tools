@@ -19,7 +19,7 @@
             "open_issues": 292,
             "owner": "anuraghazra",
             "repo": "github-readme-stats",
-            "stars": 79839,
+            "stars": 79840,
             "topics": [
               "dynamic",
               "profile-readme",
@@ -46,7 +46,7 @@
             "open_issues": 76,
             "owner": "DenverCoder1",
             "repo": "github-readme-streak-stats",
-            "stars": 7135,
+            "stars": 7139,
             "topics": [
               "dynamic",
               "github",
@@ -462,7 +462,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
-            "description": "Automated GitHub follower tracking with customizable SVG widgets, webhook integration, and a developer-friendly REST API.",
+            "description": "A little service on Cloudflare Workers that tracks GitHub followers and generates live SVG badges, with Discord/Slack alerts when things change. ",
             "homepage": "https://follow.lazybittu.workers.dev/",
             "id": 1193669801,
             "language": "JavaScript",
@@ -476,7 +476,7 @@
               "automation",
               "cloudflare-workers",
               "github-actions",
-              "profile-readme",
+              "javascript",
               "webhooks"
             ]
           },
@@ -537,7 +537,7 @@
             "open_issues": 406,
             "owner": "rahuldkjain",
             "repo": "github-profile-readme-generator",
-            "stars": 24440,
+            "stars": 24439,
             "topics": [
               "gatsby",
               "generator",
@@ -821,7 +821,7 @@
             "open_issues": 0,
             "owner": "gautamkrishnar",
             "repo": "blog-post-workflow",
-            "stars": 3442,
+            "stars": 3443,
             "topics": [
               "activity",
               "blog",
@@ -969,7 +969,7 @@
             "id": 833710441,
             "language": "JavaScript",
             "license": "MIT",
-            "last_commit": "2026-09-14T11:27:27Z",
+            "last_commit": "2026-09-15T08:17:15Z",
             "open_issues": 12,
             "owner": "TheDanniCraft",
             "repo": "activity-log",
@@ -1002,7 +1002,7 @@
             "id": 1100066142,
             "language": "Python",
             "license": "MIT",
-            "last_commit": "2026-09-14T02:16:24Z",
+            "last_commit": "2026-09-15T02:22:37Z",
             "open_issues": 0,
             "owner": "Joe-Huber",
             "repo": "my-most-followed-followers",
@@ -1074,11 +1074,11 @@
             "id": 7910045,
             "language": "JavaScript",
             "license": "Apache-2.0",
-            "last_commit": "2026-09-13T20:02:08Z",
-            "open_issues": 297,
+            "last_commit": "2026-09-15T05:50:18Z",
+            "open_issues": 296,
             "owner": "badges",
             "repo": "shields",
-            "stars": 27187,
+            "stars": 27191,
             "topics": [
               "badge",
               "badge-maker",
@@ -1107,7 +1107,7 @@
             "open_issues": 1,
             "owner": "Ileriayo",
             "repo": "markdown-badges",
-            "stars": 17034,
+            "stars": 17041,
             "topics": [
               "badges-markdown",
               "branding",
@@ -1267,7 +1267,7 @@
             "open_issues": 956,
             "owner": "simple-icons",
             "repo": "simple-icons",
-            "stars": 25847,
+            "stars": 25856,
             "topics": [
               "brand",
               "brand-assets",
@@ -1308,7 +1308,7 @@
             "open_issues": 32,
             "owner": "ryo-ma",
             "repo": "github-profile-trophy",
-            "stars": 6652,
+            "stars": 6653,
             "topics": [
               "deno",
               "github",
@@ -1342,7 +1342,7 @@
             "open_issues": 21,
             "owner": "kittinan",
             "repo": "spotify-github-profile",
-            "stars": 2223,
+            "stars": 2222,
             "topics": [
               "github",
               "github-pages",
@@ -1365,10 +1365,10 @@
             "language": "JavaScript",
             "license": "MIT",
             "last_commit": "2026-08-17T16:48:35Z",
-            "open_issues": 3,
+            "open_issues": 4,
             "owner": "leviarista",
             "repo": "github-profile-header-generator",
-            "stars": 1341,
+            "stars": 1343,
             "topics": [
               "banner-generator",
               "github",
@@ -1512,7 +1512,7 @@
             "id": 365424046,
             "language": "TypeScript",
             "license": "MIT",
-            "last_commit": "2026-09-14T08:07:01Z",
+            "last_commit": "2026-09-15T08:01:42Z",
             "open_issues": 2,
             "owner": "yogeshwaran01",
             "repo": "github-stats-terminal-style",
@@ -1563,7 +1563,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-14T14:24:12.104Z",
+    "last_updated": "2026-09-15T12:52:52.004Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated list of awesome readme tools. ✌",
