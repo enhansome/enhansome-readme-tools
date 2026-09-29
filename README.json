@@ -19,7 +19,7 @@
             "open_issues": 295,
             "owner": "anuraghazra",
             "repo": "github-readme-stats",
-            "stars": 79815,
+            "stars": 79820,
             "topics": [
               "dynamic",
               "profile-readme",
@@ -46,7 +46,7 @@
             "open_issues": 76,
             "owner": "DenverCoder1",
             "repo": "github-readme-streak-stats",
-            "stars": 7155,
+            "stars": 7156,
             "topics": [
               "dynamic",
               "github",
@@ -80,7 +80,7 @@
             "open_issues": 34,
             "owner": "sallar",
             "repo": "github-contributions-chart",
-            "stars": 5609,
+            "stars": 5610,
             "topics": [
               "contributions",
               "contributions-chart",
@@ -302,7 +302,7 @@
             "open_issues": 0,
             "owner": "dhyeythumar",
             "repo": "youtube-stats-card",
-            "stars": 22,
+            "stars": 21,
             "topics": [
               "batches",
               "channel-card",
@@ -404,7 +404,7 @@
             "id": 1147236234,
             "language": "JavaScript",
             "license": "MIT",
-            "last_commit": "2026-09-22T18:15:56Z",
+            "last_commit": "2026-09-28T16:56:01Z",
             "open_issues": 0,
             "owner": "Spectrewolf8",
             "repo": "GitHub-Contributions-Isometric-3D-Graphs-Embed",
@@ -537,7 +537,7 @@
             "open_issues": 406,
             "owner": "rahuldkjain",
             "repo": "github-profile-readme-generator",
-            "stars": 24448,
+            "stars": 24451,
             "topics": [
               "gatsby",
               "generator",
@@ -566,7 +566,7 @@
             "open_issues": 8,
             "owner": "maurodesouza",
             "repo": "profile-readme-generator",
-            "stars": 4539,
+            "stars": 4541,
             "topics": [
               "generator",
               "github",
@@ -821,7 +821,7 @@
             "open_issues": 0,
             "owner": "gautamkrishnar",
             "repo": "blog-post-workflow",
-            "stars": 3447,
+            "stars": 3448,
             "topics": [
               "activity",
               "blog",
@@ -948,7 +948,7 @@
             "open_issues": 0,
             "owner": "umutphp",
             "repo": "github-action-dynamic-profile-page",
-            "stars": 57,
+            "stars": 58,
             "topics": [
               "github-action",
               "hacktoberfest",
@@ -969,7 +969,7 @@
             "id": 833710441,
             "language": "JavaScript",
             "license": "MIT",
-            "last_commit": "2026-09-28T05:39:58Z",
+            "last_commit": "2026-09-29T05:57:33Z",
             "open_issues": 10,
             "owner": "TheDanniCraft",
             "repo": "activity-log",
@@ -1002,7 +1002,7 @@
             "id": 1100066142,
             "language": "Python",
             "license": "MIT",
-            "last_commit": "2026-09-28T02:29:32Z",
+            "last_commit": "2026-09-29T03:12:53Z",
             "open_issues": 0,
             "owner": "Joe-Huber",
             "repo": "my-most-followed-followers",
@@ -1078,7 +1078,7 @@
             "open_issues": 297,
             "owner": "badges",
             "repo": "shields",
-            "stars": 27221,
+            "stars": 27224,
             "topics": [
               "badge",
               "badge-maker",
@@ -1107,7 +1107,7 @@
             "open_issues": 1,
             "owner": "Ileriayo",
             "repo": "markdown-badges",
-            "stars": 17081,
+            "stars": 17083,
             "topics": [
               "badges-markdown",
               "branding",
@@ -1267,7 +1267,7 @@
             "open_issues": 977,
             "owner": "simple-icons",
             "repo": "simple-icons",
-            "stars": 25921,
+            "stars": 25927,
             "topics": [
               "brand",
               "brand-assets",
@@ -1308,7 +1308,7 @@
             "open_issues": 35,
             "owner": "ryo-ma",
             "repo": "github-profile-trophy",
-            "stars": 6665,
+            "stars": 6664,
             "topics": [
               "deno",
               "github",
@@ -1342,7 +1342,7 @@
             "open_issues": 22,
             "owner": "kittinan",
             "repo": "spotify-github-profile",
-            "stars": 2235,
+            "stars": 2236,
             "topics": [
               "github",
               "github-pages",
@@ -1512,7 +1512,7 @@
             "id": 365424046,
             "language": "TypeScript",
             "license": "MIT",
-            "last_commit": "2026-09-28T08:58:21Z",
+            "last_commit": "2026-09-29T09:04:10Z",
             "open_issues": 2,
             "owner": "yogeshwaran01",
             "repo": "github-stats-terminal-style",
@@ -1563,7 +1563,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-28T15:56:18.816Z",
+    "last_updated": "2026-09-29T14:20:21.817Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated list of awesome readme tools. ✌",
