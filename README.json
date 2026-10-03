@@ -537,7 +537,7 @@
             "open_issues": 406,
             "owner": "rahuldkjain",
             "repo": "github-profile-readme-generator",
-            "stars": 24449,
+            "stars": 24448,
             "topics": [
               "gatsby",
               "generator",
@@ -566,7 +566,7 @@
             "open_issues": 8,
             "owner": "maurodesouza",
             "repo": "profile-readme-generator",
-            "stars": 4540,
+            "stars": 4541,
             "topics": [
               "generator",
               "github",
@@ -969,7 +969,7 @@
             "id": 833710441,
             "language": "JavaScript",
             "license": "MIT",
-            "last_commit": "2026-10-03T02:10:04Z",
+            "last_commit": "2026-10-03T08:23:32Z",
             "open_issues": 10,
             "owner": "TheDanniCraft",
             "repo": "activity-log",
@@ -1039,10 +1039,10 @@
             "id": 1214288549,
             "language": "Go",
             "license": "Apache-2.0",
-            "last_commit": "2026-08-31T06:41:48Z",
+            "last_commit": "2026-10-03T06:40:31Z",
             "open_issues": 0,
             "owner": "tiennm99",
-            "repo": "ghstats",
+            "repo": "ghglance",
             "stars": 0,
             "topics": [
               "cli",
@@ -1078,7 +1078,7 @@
             "open_issues": 314,
             "owner": "badges",
             "repo": "shields",
-            "stars": 27235,
+            "stars": 27236,
             "topics": [
               "badge",
               "badge-maker",
@@ -1107,7 +1107,7 @@
             "open_issues": 0,
             "owner": "Ileriayo",
             "repo": "markdown-badges",
-            "stars": 17092,
+            "stars": 17093,
             "topics": [
               "badges-markdown",
               "branding",
@@ -1267,7 +1267,7 @@
             "open_issues": 977,
             "owner": "simple-icons",
             "repo": "simple-icons",
-            "stars": 25951,
+            "stars": 25953,
             "topics": [
               "brand",
               "brand-assets",
@@ -1305,7 +1305,7 @@
             "language": "TypeScript",
             "license": "MIT",
             "last_commit": "2026-07-25T00:05:17Z",
-            "open_issues": 34,
+            "open_issues": 33,
             "owner": "ryo-ma",
             "repo": "github-profile-trophy",
             "stars": 6666,
@@ -1368,7 +1368,7 @@
             "open_issues": 4,
             "owner": "leviarista",
             "repo": "github-profile-header-generator",
-            "stars": 1355,
+            "stars": 1356,
             "topics": [
               "banner-generator",
               "github",
@@ -1512,7 +1512,7 @@
             "id": 365424046,
             "language": "TypeScript",
             "license": "MIT",
-            "last_commit": "2026-10-02T09:01:40Z",
+            "last_commit": "2026-10-03T08:33:59Z",
             "open_issues": 2,
             "owner": "yogeshwaran01",
             "repo": "github-stats-terminal-style",
@@ -1563,7 +1563,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-03T05:04:22.034Z",
+    "last_updated": "2026-10-03T12:43:06.353Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated list of awesome readme tools. ✌",
