@@ -12,7 +12,7 @@
 
 ## Statistical Tools (Widgets)
 
-* [GitHub Readme Stats](https://github.com/anuraghazra/github-readme-stats#readme) ⭐ 79,823 | 🐛 294 | 🌐 JavaScript | 📅 2026-10-01 - ⚡ Dynamically generated stats for your github readmes.
+* [GitHub Readme Stats](https://github.com/anuraghazra/github-readme-stats#readme) ⭐ 79,820 | 🐛 294 | 🌐 JavaScript | 📅 2026-10-01 - ⚡ Dynamically generated stats for your github readmes.
 * [GitHub Readme Streak Stats](https://github.com/DenverCoder1/github-readme-streak-stats#readme) ⭐ 7,157 | 🐛 76 | 🌐 PHP | 📅 2026-09-25 - Display your total contributions, current streak, and longest streak on your github profile readme.
 * [GitHub Contributions Chart](https://github.com/sallar/github-contributions-chart#readme) ⭐ 5,607 | 🐛 34 | 🌐 JavaScript | 📅 2025-02-20 - :octocat: Generate an image of all your Github contributions
 * [Waka Readme](https://github.com/athul/waka-readme#readme) ⭐ 1,833 | 🐛 2 | 🌐 Python | 📅 2026-02-18 - Wakatime weekly metrics on your profile readme.
@@ -27,7 +27,7 @@
 * [GitHub PR Stats](https://github.com/f14XuanLv/github-pr-stats#readme) ⭐ 13 | 🐛 3 | 🌐 TypeScript | 📅 2025-09-01 - 📊 Generate dynamic SVG tables showcasing your GitHub pull requests with repository statistics and star-based filtering.
 * [Isometric Contributions](https://github.com/Spectrewolf8/isometric-contributions) ⭐ 12 | 🐛 0 | 🌐 JavaScript | 📅 2026-10-01 - Generate beautiful 3D isometric visualizations of GitHub contribution graphs with customizable themes, live preview builder, dark mode support, and intelligent caching.
 * [Terminal Identity](https://github.com/doyoon530/terminal-identity#readme) ⭐ 5 | 🐛 0 | 🌐 JavaScript | 📅 2026-04-13 - 🖥️ Generate terminal-style SVG identity cards for your github profile readme with live stats, 4 provider shells, 8 themes, and zero config.
-* [Github Follow Tracker](https://github.com/Bittu5134/GH-Follow-Tracker) ⭐ 3 | 🐛 0 | 🌐 JavaScript | 📅 2026-10-02 - 📈 Showcase Follower History using dynamically generating SVG images.
+* [Github Follow Tracker](https://github.com/Bittu5134/GH-Follow-Tracker) ⭐ 4 | 🐛 0 | 🌐 JavaScript | 📅 2026-10-02 - 📈 Showcase Follower History using dynamically generating SVG images.
 * [GitHub Readme Packagist Stats](https://github.com/agonyz/github-readme-packagist-stats) ⭐ 2 | 🐛 0 | 🌐 TypeScript | 📅 2024-07-30 - Dynamically generated statistics of your Packagist Bundles for your GitHub readme.
 * [GitClear Commit Activity](https://www.gitclear.com/github_profile_dynamic_readme_free#commit_activity) - Dynamically generating daily visualization of which tickets/repos/branches are being worked on by individual or team
 * [GitClear Area Charts](https://www.gitclear.com/github_profile_dynamic_readme_free#area_graph) - Dynamically generating area charts to showcase relative velocity of work across repos
@@ -35,7 +35,7 @@
 ## Readme Generator
 
 * [rahuldkjain/GitHub Profile Readme Generator](https://github.com/rahuldkjain/github-profile-readme-generator#readme) ⭐ 24,449 | 🐛 406 | 🌐 TypeScript | 📅 2025-10-28 - 🚀 Generate github profile readme easily with the latest add-ons like visitors count, github stats, etc using minimal UI.
-* [Profile Readme Generator](https://github.com/maurodesouza/profile-readme-generator#readme) ⭐ 4,543 | 🐛 8 | 🌐 TypeScript | 📅 2026-09-03 - 🎨 Beautify your github profile with this amazing tool.
+* [Profile Readme Generator](https://github.com/maurodesouza/profile-readme-generator#readme) ⭐ 4,540 | 🐛 8 | 🌐 TypeScript | 📅 2026-09-03 - 🎨 Beautify your github profile with this amazing tool.
 * [GitHub Profilinator](https://github.com/rishavanand/github-profilinator#readme) ⚠️ Archived - 🚀 This tool contains mini GUI components that you can hook together to automatically generate markdown code for a perfect readme.
 * [GitHub Profile Readme Maker](https://github.com/VishwaGauravIn/github-profile-readme-maker#readme) ⭐ 1,010 | 🐛 14 | 🌐 JavaScript | 📅 2026-04-12 - 🏆 Best Profile Generator, Create your perfect GitHub Profile ReadMe in the best possible way. Lots of features and tools included, all for free ! 💫.
 * [arturssmirnovs/GitHub Profile Readme Generator](https://github.com/arturssmirnovs/github-profile-readme-generator#readme) ⭐ 903 | 🐛 0 | 🌐 JavaScript | 📅 2023-11-20 - GitHub profile readme generator allows you to create nice and simple github profile readme files that will be included in your profile previews.
@@ -47,20 +47,20 @@
 
 ## GitHub Actions for Readmes
 
-* [Waka Readme Stats](https://github.com/anmol098/waka-readme-stats#readme) ⭐ 3,997 | 🐛 68 | 🌐 Python | 📅 2026-09-28 - GitHub action helps to add cool dev metrics to your github profile readme.
+* [Waka Readme Stats](https://github.com/anmol098/waka-readme-stats#readme) ⭐ 3,998 | 🐛 68 | 🌐 Python | 📅 2026-09-28 - GitHub action helps to add cool dev metrics to your github profile readme.
 * [Blog Post Workflow](https://github.com/gautamkrishnar/blog-post-workflow#readme) ⭐ 3,448 | 🐛 0 | 🌐 JavaScript | 📅 2026-08-10 - Show the latest blog posts from any sources or StackOverflow activity or youtube videos on your github profile/project readme automatically using the RSS feed.
 * [Github Activity Readme](https://github.com/jamesgeorge007/github-activity-readme#readme) ⭐ 953 | 🐛 12 | 🌐 JavaScript | 📅 2026-08-05 - Updates readme with the recent github activity of a user.
 * [Profile Readme Stats](https://github.com/teoxoy/profile-readme-stats#readme) ⚠️ Archived - Showcase your github stats on your profile readme.
 * [Profile Readme](https://github.com/actions-js/profile-readme#readme) ⭐ 91 | 🐛 5 | 🌐 TypeScript | 📅 2023-07-09 - Display profile activity and other cool widgets in your profile readme.
 * [Dynamic Profile Page](https://github.com/umutphp/github-action-dynamic-profile-page#readme) ⭐ 58 | 🐛 0 | 🌐 Shell | 📅 2024-09-23 - GitHub action to push updates to your special profile repository.
-* [Activity Log](https://github.com/TheDanniCraft/activity-log#readme) ⭐ 18 | 🐛 10 | 🌐 JavaScript | 📅 2026-10-02 - Dynamically display your recent github activity (Markdown or HTML).
-* [My Most Famous Followers](https://github.com/Joe-Huber/my-most-followed-followers) ⭐ 4 | 🐛 0 | 🌐 Python | 📅 2026-10-02 - Automatically creates a table in your read me with your most followed followers.
+* [Activity Log](https://github.com/TheDanniCraft/activity-log#readme) ⭐ 18 | 🐛 10 | 🌐 JavaScript | 📅 2026-10-03 - Dynamically display your recent github activity (Markdown or HTML).
+* [My Most Famous Followers](https://github.com/Joe-Huber/my-most-followed-followers) ⭐ 4 | 🐛 0 | 🌐 Python | 📅 2026-10-03 - Automatically creates a table in your read me with your most followed followers.
 * [Ghstats](https://github.com/tiennm99/ghstats#readme) ⭐ 0 | 🐛 0 | 🌐 Go | 📅 2026-08-31 - Go CLI + GitHub Action that generates 9 themed SVG profile cards with 61+ themes and byte-weighted commit-to-language attribution.
 
 ## Badges
 
-* [Shields](https://github.com/badges/shields#readme) ⭐ 27,237 | 🐛 315 | 🌐 JavaScript | 📅 2026-10-02 - Concise, consistent, and legible badges in SVG and raster format.
-* [Markdown Badges](https://github.com/Ileriayo/markdown-badges#readme) ⭐ 17,094 | 🐛 0 | 🌐 SCSS | 📅 2026-09-30 - Badges for your profile and projects.
+* [Shields](https://github.com/badges/shields#readme) ⭐ 27,235 | 🐛 314 | 🌐 JavaScript | 📅 2026-10-02 - Concise, consistent, and legible badges in SVG and raster format.
+* [Markdown Badges](https://github.com/Ileriayo/markdown-badges#readme) ⭐ 17,092 | 🐛 0 | 🌐 SCSS | 📅 2026-09-30 - Badges for your profile and projects.
 * [Visitor Badge](https://github.com/jwenjian/visitor-badge#readme) ⭐ 907 | 🐛 0 | 🌐 HTML | 📅 2024-03-18 - A badge generator service to count visitors of your markdown file.
 * [Hits](https://github.com/dwyl/hits) ⭐ 451 | 🐛 20 | 🌐 Elixir | 📅 2026-09-03 - 📈 General purpose hits (page views) counter.
 * [Git Badges](https://github.com/puf17640/git-badges#readme) ⭐ 236 | 🐛 10 | 🌐 TypeScript | 📅 2026-02-24 - An API serving useful badges for your github profile readme 🚀.
@@ -69,7 +69,7 @@
 
 ## Miscellaneous
 
-* [Simple Icons](https://github.com/simple-icons/simple-icons#readme) ⭐ 25,947 | 🐛 975 | 🌐 JavaScript | 📅 2026-09-30 - SVG icons for popular brands.
+* [Simple Icons](https://github.com/simple-icons/simple-icons#readme) ⭐ 25,951 | 🐛 977 | 🌐 JavaScript | 📅 2026-09-30 - SVG icons for popular brands.
 * [GitHub Profile Trophy](https://github.com/ryo-ma/github-profile-trophy#readme) ⭐ 6,666 | 🐛 34 | 🌐 TypeScript | 📅 2026-07-25 - 🏆 Add dynamically generated github trophy on your readme.
 * [Spotify GitHub Profile](https://github.com/kittinan/spotify-github-profile#readme) ⭐ 2,241 | 🐛 22 | 🌐 Python | 📅 2026-07-21 - Show your Spotify playing on your github profile.
 * [GitHub Profile Header Generator](https://github.com/leviarista/github-profile-header-generator) ⭐ 1,355 | 🐛 4 | 🌐 JavaScript | 📅 2026-08-17 - A header image generator for your Github profile Readme.
@@ -90,4 +90,4 @@ Contributions are always welcome! 😀 Please read the [contribution guidelines]
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-10-02._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-10-03._
