@@ -19,7 +19,7 @@
             "open_issues": 294,
             "owner": "anuraghazra",
             "repo": "github-readme-stats",
-            "stars": 79825,
+            "stars": 79822,
             "topics": [
               "dynamic",
               "profile-readme",
@@ -46,7 +46,7 @@
             "open_issues": 76,
             "owner": "DenverCoder1",
             "repo": "github-readme-streak-stats",
-            "stars": 7160,
+            "stars": 7161,
             "topics": [
               "dynamic",
               "github",
@@ -537,7 +537,7 @@
             "open_issues": 406,
             "owner": "rahuldkjain",
             "repo": "github-profile-readme-generator",
-            "stars": 24448,
+            "stars": 24447,
             "topics": [
               "gatsby",
               "generator",
@@ -562,7 +562,7 @@
             "id": 500872269,
             "language": "TypeScript",
             "license": "MIT",
-            "last_commit": "2026-09-03T17:37:22Z",
+            "last_commit": "2026-10-06T12:16:23Z",
             "open_issues": 8,
             "owner": "maurodesouza",
             "repo": "profile-readme-generator",
@@ -1078,7 +1078,7 @@
             "open_issues": 317,
             "owner": "badges",
             "repo": "shields",
-            "stars": 27242,
+            "stars": 27244,
             "topics": [
               "badge",
               "badge-maker",
@@ -1267,7 +1267,7 @@
             "open_issues": 982,
             "owner": "simple-icons",
             "repo": "simple-icons",
-            "stars": 25969,
+            "stars": 25970,
             "topics": [
               "brand",
               "brand-assets",
@@ -1516,7 +1516,7 @@
             "open_issues": 2,
             "owner": "yogeshwaran01",
             "repo": "github-stats-terminal-style",
-            "stars": 331,
+            "stars": 332,
             "topics": [
               "developer-tools",
               "github",
@@ -1563,7 +1563,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-06T10:26:58.668Z",
+    "last_updated": "2026-10-06T14:27:14.594Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated list of awesome readme tools. ✌",
