@@ -19,7 +19,7 @@
             "open_issues": 294,
             "owner": "anuraghazra",
             "repo": "github-readme-stats",
-            "stars": 79825,
+            "stars": 79829,
             "topics": [
               "dynamic",
               "profile-readme",
@@ -46,7 +46,7 @@
             "open_issues": 79,
             "owner": "DenverCoder1",
             "repo": "github-readme-streak-stats",
-            "stars": 7167,
+            "stars": 7164,
             "topics": [
               "dynamic",
               "github",
@@ -106,7 +106,7 @@
             "open_issues": 2,
             "owner": "athul",
             "repo": "waka-readme",
-            "stars": 1833,
+            "stars": 1834,
             "topics": [
               "profile-page",
               "readme",
@@ -537,7 +537,7 @@
             "open_issues": 407,
             "owner": "rahuldkjain",
             "repo": "github-profile-readme-generator",
-            "stars": 24447,
+            "stars": 24448,
             "topics": [
               "gatsby",
               "generator",
@@ -566,7 +566,7 @@
             "open_issues": 8,
             "owner": "maurodesouza",
             "repo": "profile-readme-generator",
-            "stars": 4556,
+            "stars": 4558,
             "topics": [
               "generator",
               "github",
@@ -790,10 +790,10 @@
             "language": "Python",
             "license": "MIT",
             "last_commit": "2026-10-09T13:42:56Z",
-            "open_issues": 71,
+            "open_issues": 72,
             "owner": "anmol098",
             "repo": "waka-readme-stats",
-            "stars": 3997,
+            "stars": 3998,
             "topics": [
               "awesome",
               "profile",
@@ -969,7 +969,7 @@
             "id": 833710441,
             "language": "JavaScript",
             "license": "MIT",
-            "last_commit": "2026-10-11T07:38:11Z",
+            "last_commit": "2026-10-12T10:04:56Z",
             "open_issues": 10,
             "owner": "TheDanniCraft",
             "repo": "activity-log",
@@ -1002,7 +1002,7 @@
             "id": 1100066142,
             "language": "Python",
             "license": "MIT",
-            "last_commit": "2026-10-11T02:48:53Z",
+            "last_commit": "2026-10-12T03:12:01Z",
             "open_issues": 0,
             "owner": "Joe-Huber",
             "repo": "my-most-followed-followers",
@@ -1035,7 +1035,7 @@
           "repo_info": {
             "archived": false,
             "description": "Generate SVG cards summarizing a GitHub user's profile, written in Go. Drop-in profile-summary alternative.",
-            "homepage": null,
+            "homepage": "https://ghglance.miti99.dev",
             "id": 1214288549,
             "language": "Go",
             "license": "Apache-2.0",
@@ -1074,11 +1074,11 @@
             "id": 7910045,
             "language": "JavaScript",
             "license": "Apache-2.0",
-            "last_commit": "2026-10-11T14:02:08Z",
-            "open_issues": 293,
+            "last_commit": "2026-10-12T16:09:34Z",
+            "open_issues": 290,
             "owner": "badges",
             "repo": "shields",
-            "stars": 27256,
+            "stars": 27258,
             "topics": [
               "badge",
               "badge-maker",
@@ -1107,7 +1107,7 @@
             "open_issues": 1,
             "owner": "Ileriayo",
             "repo": "markdown-badges",
-            "stars": 17107,
+            "stars": 17110,
             "topics": [
               "badges-markdown",
               "branding",
@@ -1264,10 +1264,10 @@
             "language": "JavaScript",
             "license": "CC0-1.0",
             "last_commit": "2026-10-11T10:21:28Z",
-            "open_issues": 986,
+            "open_issues": 990,
             "owner": "simple-icons",
             "repo": "simple-icons",
-            "stars": 25997,
+            "stars": 26001,
             "topics": [
               "brand",
               "brand-assets",
@@ -1368,7 +1368,7 @@
             "open_issues": 3,
             "owner": "leviarista",
             "repo": "github-profile-header-generator",
-            "stars": 1363,
+            "stars": 1364,
             "topics": [
               "banner-generator",
               "github",
@@ -1433,7 +1433,7 @@
             "open_issues": 4,
             "owner": "PiyushSuthar",
             "repo": "github-readme-quotes",
-            "stars": 627,
+            "stars": 626,
             "topics": [
               "github",
               "github-readme",
@@ -1462,7 +1462,7 @@
             "open_issues": 2,
             "owner": "JeffreyCA",
             "repo": "spotify-recently-played-readme",
-            "stars": 465,
+            "stars": 466,
             "topics": [
               "hacktoberfest",
               "profile-readme",
@@ -1512,7 +1512,7 @@
             "id": 365424046,
             "language": "TypeScript",
             "license": "MIT",
-            "last_commit": "2026-10-11T09:19:11Z",
+            "last_commit": "2026-10-12T09:47:19Z",
             "open_issues": 2,
             "owner": "yogeshwaran01",
             "repo": "github-stats-terminal-style",
@@ -1563,7 +1563,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-11T14:21:35.282Z",
+    "last_updated": "2026-10-12T16:59:48.397Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated list of awesome readme tools. ✌",
@@ -1575,7 +1575,7 @@
       "open_issues": 15,
       "owner": "dhyeythumar",
       "repo": "awesome-readme-tools",
-      "stars": 267,
+      "stars": 268,
       "topics": [
         "awesome",
         "awesome-list",
