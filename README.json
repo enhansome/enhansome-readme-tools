@@ -19,7 +19,7 @@
             "open_issues": 296,
             "owner": "anuraghazra",
             "repo": "github-readme-stats",
-            "stars": 79852,
+            "stars": 79855,
             "topics": [
               "dynamic",
               "profile-readme",
@@ -42,7 +42,7 @@
             "id": 307018731,
             "language": "PHP",
             "license": "MIT",
-            "last_commit": "2026-10-26T12:10:22Z",
+            "last_commit": "2026-10-29T07:18:04Z",
             "open_issues": 78,
             "owner": "DenverCoder1",
             "repo": "github-readme-streak-stats",
@@ -103,10 +103,10 @@
             "language": "Python",
             "license": "MIT",
             "last_commit": "2026-10-23T14:38:30Z",
-            "open_issues": 2,
+            "open_issues": 3,
             "owner": "athul",
             "repo": "waka-readme",
-            "stars": 1840,
+            "stars": 1841,
             "topics": [
               "profile-page",
               "readme",
@@ -352,6 +352,34 @@
         },
         {
           "node_type": "item",
+          "title": "Isometric Contributions",
+          "description": "Generate beautiful 3D isometric visualizations of GitHub contribution graphs with customizable themes, live preview builder, dark mode support, and intelligent caching.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "description": "Generate beautiful 3D isometric visualizations of GitHub contribution graphs. Available as both a CLI tool and a fast, cached API.",
+            "homepage": "https://isometric-contributions-spectrewolf8.onrender.com/",
+            "id": 1147236234,
+            "language": "JavaScript",
+            "license": "MIT",
+            "last_commit": "2026-10-29T07:54:37Z",
+            "open_issues": 0,
+            "owner": "Spectrewolf8",
+            "repo": "GitHub-Contributions-Isometric-3D-Graphs-Embed",
+            "stars": 15,
+            "topics": [
+              "3d-contribution-graph",
+              "contributions",
+              "contributions-graph",
+              "isometric-contributions",
+              "isometric-graphics",
+              "visualizations"
+            ]
+          },
+          "first_seen": "2026-08-28T19:35:11.481Z"
+        },
+        {
+          "node_type": "item",
           "title": "GitHub PR Stats",
           "description": "📊 Generate dynamic SVG tables showcasing your GitHub pull requests with repository statistics and star-based filtering.",
           "children": [],
@@ -388,34 +416,6 @@
               "svg",
               "visualization",
               "widgets"
-            ]
-          },
-          "first_seen": "2026-08-28T19:35:11.481Z"
-        },
-        {
-          "node_type": "item",
-          "title": "Isometric Contributions",
-          "description": "Generate beautiful 3D isometric visualizations of GitHub contribution graphs with customizable themes, live preview builder, dark mode support, and intelligent caching.",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "description": "Generate beautiful 3D isometric visualizations of GitHub contribution graphs. Available as both a CLI tool and a fast, cached API.",
-            "homepage": "https://isometric-contributions-spectrewolf8.onrender.com/",
-            "id": 1147236234,
-            "language": "JavaScript",
-            "license": "MIT",
-            "last_commit": "2026-10-15T11:31:43Z",
-            "open_issues": 0,
-            "owner": "Spectrewolf8",
-            "repo": "GitHub-Contributions-Isometric-3D-Graphs-Embed",
-            "stars": 13,
-            "topics": [
-              "3d-contribution-graph",
-              "contributions",
-              "contributions-graph",
-              "isometric-contributions",
-              "isometric-graphics",
-              "visualizations"
             ]
           },
           "first_seen": "2026-08-28T19:35:11.481Z"
@@ -467,7 +467,7 @@
             "id": 1193669801,
             "language": "JavaScript",
             "license": null,
-            "last_commit": "2026-10-27T07:15:23Z",
+            "last_commit": "2026-10-28T21:32:35Z",
             "open_issues": 0,
             "owner": "Bittu5134",
             "repo": "GH-Follow-Tracker",
@@ -537,7 +537,7 @@
             "open_issues": 409,
             "owner": "rahuldkjain",
             "repo": "github-profile-readme-generator",
-            "stars": 24462,
+            "stars": 24458,
             "topics": [
               "gatsby",
               "generator",
@@ -566,7 +566,7 @@
             "open_issues": 8,
             "owner": "maurodesouza",
             "repo": "profile-readme-generator",
-            "stars": 4588,
+            "stars": 4589,
             "topics": [
               "generator",
               "github",
@@ -821,7 +821,7 @@
             "open_issues": 1,
             "owner": "gautamkrishnar",
             "repo": "blog-post-workflow",
-            "stars": 3446,
+            "stars": 3445,
             "topics": [
               "activity",
               "blog",
@@ -863,7 +863,7 @@
             "open_issues": 12,
             "owner": "jamesgeorge007",
             "repo": "github-activity-readme",
-            "stars": 960,
+            "stars": 959,
             "topics": [
               "activity",
               "github-action",
@@ -969,7 +969,7 @@
             "id": 833710441,
             "language": "JavaScript",
             "license": "MIT",
-            "last_commit": "2026-10-28T07:57:40Z",
+            "last_commit": "2026-10-29T13:27:25Z",
             "open_issues": 12,
             "owner": "TheDanniCraft",
             "repo": "activity-log",
@@ -1002,7 +1002,7 @@
             "id": 1100066142,
             "language": "Python",
             "license": "MIT",
-            "last_commit": "2026-10-28T02:58:38Z",
+            "last_commit": "2026-10-29T03:24:45Z",
             "open_issues": 0,
             "owner": "Joe-Huber",
             "repo": "my-most-followed-followers",
@@ -1078,7 +1078,7 @@
             "open_issues": 303,
             "owner": "badges",
             "repo": "shields",
-            "stars": 27331,
+            "stars": 27332,
             "topics": [
               "badge",
               "badge-maker",
@@ -1107,7 +1107,7 @@
             "open_issues": 0,
             "owner": "Ileriayo",
             "repo": "markdown-badges",
-            "stars": 17152,
+            "stars": 17161,
             "topics": [
               "badges-markdown",
               "branding",
@@ -1264,10 +1264,10 @@
             "language": "JavaScript",
             "license": "CC0-1.0",
             "last_commit": "2026-10-25T17:18:51Z",
-            "open_issues": 999,
+            "open_issues": 1000,
             "owner": "simple-icons",
             "repo": "simple-icons",
-            "stars": 26100,
+            "stars": 26103,
             "topics": [
               "brand",
               "brand-assets",
@@ -1308,7 +1308,7 @@
             "open_issues": 32,
             "owner": "ryo-ma",
             "repo": "github-profile-trophy",
-            "stars": 6672,
+            "stars": 6670,
             "topics": [
               "deno",
               "github",
@@ -1342,7 +1342,7 @@
             "open_issues": 22,
             "owner": "kittinan",
             "repo": "spotify-github-profile",
-            "stars": 2266,
+            "stars": 2265,
             "topics": [
               "github",
               "github-pages",
@@ -1405,7 +1405,7 @@
             "open_issues": 15,
             "owner": "ABSphreak",
             "repo": "readme-jokes",
-            "stars": 714,
+            "stars": 713,
             "topics": [
               "api",
               "hacktoberfest",
@@ -1512,7 +1512,7 @@
             "id": 365424046,
             "language": "TypeScript",
             "license": "MIT",
-            "last_commit": "2026-10-28T09:00:07Z",
+            "last_commit": "2026-10-29T08:56:15Z",
             "open_issues": 2,
             "owner": "yogeshwaran01",
             "repo": "github-stats-terminal-style",
@@ -1563,7 +1563,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-28T14:29:19.954Z",
+    "last_updated": "2026-10-29T14:38:36.886Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated list of awesome readme tools. ✌",
@@ -1575,7 +1575,7 @@
       "open_issues": 18,
       "owner": "dhyeythumar",
       "repo": "awesome-readme-tools",
-      "stars": 272,
+      "stars": 273,
       "topics": [
         "awesome",
         "awesome-list",
