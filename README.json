@@ -46,7 +46,7 @@
             "open_issues": 80,
             "owner": "DenverCoder1",
             "repo": "github-readme-streak-stats",
-            "stars": 7184,
+            "stars": 7185,
             "topics": [
               "dynamic",
               "github",
@@ -537,7 +537,7 @@
             "open_issues": 409,
             "owner": "rahuldkjain",
             "repo": "github-profile-readme-generator",
-            "stars": 24462,
+            "stars": 24464,
             "topics": [
               "gatsby",
               "generator",
@@ -566,7 +566,7 @@
             "open_issues": 9,
             "owner": "maurodesouza",
             "repo": "profile-readme-generator",
-            "stars": 4589,
+            "stars": 4592,
             "topics": [
               "generator",
               "github",
@@ -626,7 +626,7 @@
             "open_issues": 14,
             "owner": "VishwaGauravIn",
             "repo": "github-profile-readme-maker",
-            "stars": 1018,
+            "stars": 1019,
             "topics": [
               "github",
               "github-profile",
@@ -969,7 +969,7 @@
             "id": 833710441,
             "language": "JavaScript",
             "license": "MIT",
-            "last_commit": "2026-10-30T09:25:01Z",
+            "last_commit": "2026-10-31T12:53:54Z",
             "open_issues": 12,
             "owner": "TheDanniCraft",
             "repo": "activity-log",
@@ -1002,7 +1002,7 @@
             "id": 1100066142,
             "language": "Python",
             "license": "MIT",
-            "last_commit": "2026-10-30T03:26:45Z",
+            "last_commit": "2026-10-31T03:11:25Z",
             "open_issues": 0,
             "owner": "Joe-Huber",
             "repo": "my-most-followed-followers",
@@ -1075,10 +1075,10 @@
             "language": "JavaScript",
             "license": "Apache-2.0",
             "last_commit": "2026-10-30T12:10:52Z",
-            "open_issues": 304,
+            "open_issues": 307,
             "owner": "badges",
             "repo": "shields",
-            "stars": 27339,
+            "stars": 27349,
             "topics": [
               "badge",
               "badge-maker",
@@ -1107,7 +1107,7 @@
             "open_issues": 0,
             "owner": "Ileriayo",
             "repo": "markdown-badges",
-            "stars": 17163,
+            "stars": 17165,
             "topics": [
               "badges-markdown",
               "branding",
@@ -1264,10 +1264,10 @@
             "language": "JavaScript",
             "license": "CC0-1.0",
             "last_commit": "2026-10-25T17:18:51Z",
-            "open_issues": 1001,
+            "open_issues": 1002,
             "owner": "simple-icons",
             "repo": "simple-icons",
-            "stars": 26108,
+            "stars": 26112,
             "topics": [
               "brand",
               "brand-assets",
@@ -1462,7 +1462,7 @@
             "open_issues": 2,
             "owner": "JeffreyCA",
             "repo": "spotify-recently-played-readme",
-            "stars": 470,
+            "stars": 471,
             "topics": [
               "hacktoberfest",
               "profile-readme",
@@ -1512,7 +1512,7 @@
             "id": 365424046,
             "language": "TypeScript",
             "license": "MIT",
-            "last_commit": "2026-10-30T09:01:07Z",
+            "last_commit": "2026-10-31T08:54:53Z",
             "open_issues": 2,
             "owner": "yogeshwaran01",
             "repo": "github-stats-terminal-style",
@@ -1563,7 +1563,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-30T14:30:20.755Z",
+    "last_updated": "2026-10-31T13:52:34.300Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated list of awesome readme tools. ✌",
