@@ -19,7 +19,7 @@
             "open_issues": 299,
             "owner": "anuraghazra",
             "repo": "github-readme-stats",
-            "stars": 79835,
+            "stars": 79837,
             "topics": [
               "dynamic",
               "profile-readme",
@@ -80,7 +80,7 @@
             "open_issues": 35,
             "owner": "sallar",
             "repo": "github-contributions-chart",
-            "stars": 5616,
+            "stars": 5617,
             "topics": [
               "contributions",
               "contributions-chart",
@@ -467,7 +467,7 @@
             "id": 1193669801,
             "language": "JavaScript",
             "license": null,
-            "last_commit": "2026-11-19T01:41:54Z",
+            "last_commit": "2026-11-19T18:50:39Z",
             "open_issues": 0,
             "owner": "Bittu5134",
             "repo": "GH-Follow-Tracker",
@@ -566,7 +566,7 @@
             "open_issues": 9,
             "owner": "maurodesouza",
             "repo": "profile-readme-generator",
-            "stars": 4619,
+            "stars": 4624,
             "topics": [
               "generator",
               "github",
@@ -596,7 +596,7 @@
             "open_issues": 28,
             "owner": "rishavanand",
             "repo": "github-profilinator",
-            "stars": 1229,
+            "stars": 1228,
             "topics": [
               "gatsby",
               "generator",
@@ -626,7 +626,7 @@
             "open_issues": 14,
             "owner": "VishwaGauravIn",
             "repo": "github-profile-readme-maker",
-            "stars": 1026,
+            "stars": 1025,
             "topics": [
               "github",
               "github-profile",
@@ -790,7 +790,7 @@
             "language": "Python",
             "license": "MIT",
             "last_commit": "2026-11-16T13:43:13Z",
-            "open_issues": 75,
+            "open_issues": 76,
             "owner": "anmol098",
             "repo": "waka-readme-stats",
             "stars": 4012,
@@ -863,7 +863,7 @@
             "open_issues": 12,
             "owner": "jamesgeorge007",
             "repo": "github-activity-readme",
-            "stars": 966,
+            "stars": 965,
             "topics": [
               "activity",
               "github-action",
@@ -969,7 +969,7 @@
             "id": 833710441,
             "language": "JavaScript",
             "license": "MIT",
-            "last_commit": "2026-11-19T14:37:56Z",
+            "last_commit": "2026-11-20T12:23:34Z",
             "open_issues": 9,
             "owner": "TheDanniCraft",
             "repo": "activity-log",
@@ -1034,7 +1034,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
-            "description": "Generate SVG cards summarizing a GitHub user's profile, written in Go. Drop-in profile-summary alternative.",
+            "description": "Go CLI, GitHub Action and web UI that generate SVG cards summarizing a GitHub user's profile",
             "homepage": "https://ghglance.miti99.dev",
             "id": 1214288549,
             "language": "Go",
@@ -1074,7 +1074,7 @@
             "id": 7910045,
             "language": "JavaScript",
             "license": "Apache-2.0",
-            "last_commit": "2026-11-14T16:36:06Z",
+            "last_commit": "2026-11-20T12:34:35Z",
             "open_issues": 302,
             "owner": "badges",
             "repo": "shields",
@@ -1106,7 +1106,7 @@
             "open_issues": 0,
             "owner": "Ileriayo",
             "repo": "markdown-badges",
-            "stars": 17211,
+            "stars": 17210,
             "topics": [
               "badges-markdown",
               "branding",
@@ -1263,10 +1263,10 @@
             "language": "JavaScript",
             "license": "CC0-1.0",
             "last_commit": "2026-11-19T13:12:55Z",
-            "open_issues": 1053,
+            "open_issues": 1054,
             "owner": "simple-icons",
             "repo": "simple-icons",
-            "stars": 26238,
+            "stars": 26240,
             "topics": [
               "brand",
               "brand-assets",
@@ -1307,7 +1307,7 @@
             "open_issues": 35,
             "owner": "ryo-ma",
             "repo": "github-profile-trophy",
-            "stars": 6685,
+            "stars": 6683,
             "topics": [
               "deno",
               "github",
@@ -1432,7 +1432,7 @@
             "open_issues": 4,
             "owner": "PiyushSuthar",
             "repo": "github-readme-quotes",
-            "stars": 629,
+            "stars": 630,
             "topics": [
               "github",
               "github-readme",
@@ -1461,7 +1461,7 @@
             "open_issues": 3,
             "owner": "JeffreyCA",
             "repo": "spotify-recently-played-readme",
-            "stars": 472,
+            "stars": 473,
             "topics": [
               "hacktoberfest",
               "profile-readme",
@@ -1486,7 +1486,7 @@
             "open_issues": 8,
             "owner": "tthn0",
             "repo": "Spotify-Readme",
-            "stars": 402,
+            "stars": 401,
             "topics": [
               "api",
               "css",
@@ -1511,11 +1511,11 @@
             "id": 365424046,
             "language": "TypeScript",
             "license": "MIT",
-            "last_commit": "2026-11-19T10:45:58Z",
+            "last_commit": "2026-11-20T10:33:09Z",
             "open_issues": 2,
             "owner": "yogeshwaran01",
             "repo": "github-stats-terminal-style",
-            "stars": 341,
+            "stars": 339,
             "topics": [
               "developer-tools",
               "github",
@@ -1562,7 +1562,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-11-19T16:46:54.898Z",
+    "last_updated": "2026-11-20T16:21:25.872Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated list of awesome readme tools. ✌",
@@ -1574,7 +1574,7 @@
       "open_issues": 21,
       "owner": "dhyeythumar",
       "repo": "awesome-readme-tools",
-      "stars": 279,
+      "stars": 280,
       "topics": [
         "awesome",
         "awesome-list",
